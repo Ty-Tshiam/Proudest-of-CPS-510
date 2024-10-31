@@ -1,0 +1,9 @@
+DROP TABLE transactions;
+DROP TABLE credit_account;
+DROP TABLE savings_account;
+DROP TABLE chequing_account;
+DROP TABLE account;
+DROP TABLE contact_info;
+DROP TABLE rewards_account;
+DROP TABLE benificary;
+DROP TABLE users;
